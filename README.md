@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priya Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-- 📫 How to reach me **jr17priyadav03@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
